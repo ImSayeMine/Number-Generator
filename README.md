@@ -1,1 +1,1 @@
-first time run installer.py
+ for first time run installer.py 
